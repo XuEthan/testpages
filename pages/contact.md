@@ -1,14 +1,9 @@
 ---
-layout: page
-title: "Contact"
-meta_title: "Contact us"
-#subheadline: ""
-teaser: "Get in touch with us? Here is how:"
-permalink: "/contact/"
+layout              : page
+title               : "Contact"
+meta_title          : "Contact and use our contact form"
+subheadline         : "Contact Form"
+teaser              : "Get in touch with me? Use the contact form."
+permalink           : "/contact/"
 ---
-* Lab location: CMM-East 2071, San Diego, CA
-* Office phone: 858-822-5766 
-* Lab phone: 858-822-5767 
-* E-mail: biren@ucsd.edu 
-
-Assistant: Bernadeth Torres &lt; bet003@ucsd.edu &gt;
+If you need a fabulous contact form for your website, I suggest you use the free version of [Wufoo](http://www.wufoo.com/)

@@ -6,20 +6,22 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: ludwig_Ren_Lab.jpg 
+  image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Identifying the transcriptional regulatory sequences in genomes"
-  url: '/research/#identifying-the-transcriptional-regulatory-sequences-in-genomes'
-  text: "With the rapid advances in sequencing technologies, obtaining the genome sequences of an individual organism is no longer rate limiting. Instead, identifying the functional elements throughout the genome has become a major bottleneck."
+  title: "Blog & Portfolio"
+  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  image: widget-1-302x182.jpg
+  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
 widget2:
-  title: "Epigenetic mechanisms regulating pluripotency and lineage commitment"
-  url: '/research/#epigenetic-mechanisms-regulating-pluripotency-and-lineage-commitment'
-  text: "We have generated comprehensive epigenome maps for the human embryonic stem cells (ESC), fibroblasts and a number of ES cell derived cell types. Analysis of these epigenomic profiles has revealed dramatic differences of DNA methylomes and chromatin landscapes between the pluripotent and lineage-committed cell types."
-
+  title: "Why use this theme?"
+  url: 'http://phlow.github.io/feeling-responsive/info/'
+  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
-  title: "Higher-order genome architecture"
-  url: "/research/#higher-order-genome-architecture"
-  text: "Higher-order chromatin architecture is emerging as an important regulator of diverse nuclear processes, from gene regulation to DNA replication. Recent methodological advancements have allowed, for the first time, the ability to interrogate higher-order chromatin interactions on a genome-wide scale. "
+  title: "Download Theme"
+  url: 'https://github.com/Phlow/feeling-responsive'
+  image: widget-github-303x182.jpg
+  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -42,3 +44,9 @@ permalink: /index.html
 homepage: true
 ---
 
+<div id="videoModal" class="reveal-modal large" data-reveal="">
+  <div class="flex-video widescreen vimeo" style="display: block;">
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
+  </div>
+  <a class="close-reveal-modal">&#215;</a>
+</div>
